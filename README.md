@@ -5,7 +5,7 @@
 <p align="left"> 
 </p>
 
-<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/balikfr.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/balikfr.png" alt="TryHackMe">
 
 <h2>Languages and Tools</h2>
 
