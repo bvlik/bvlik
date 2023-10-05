@@ -2,7 +2,7 @@
 
 <p>🧑‍💻 I’m currently learning Cyber Security</p>
 
-<img align="left" src="https://tryhackme-badges.s3.amazonaws.com/balikfr.png" alt="TryHackMe">
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/balikfr.png" alt="TryHackMe">
 
 <h2>Languages and Tools</h2>
 
