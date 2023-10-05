@@ -4,7 +4,7 @@
 
 <p align="left"></p>
 
-<script src="https://tryhackme.com/badge/1274648"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/balikfr.png" alt="TryHackMe">
 
 <h2>Languages and Tools</h2>
 
