@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Balik</h1>
 
 <p>🧑‍💻 I’m currently learning Cyber Security</p>
+<p align="left">
+  
+</p>
 
 <img align="left" src="https://tryhackme-badges.s3.amazonaws.com/balikfr.png" alt="TryHackMe">
 
