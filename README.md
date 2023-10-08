@@ -1,9 +1,6 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=500&color=4AF724&background=FF49A000&center=true&vCenter=true&width=435&lines=balik" alt="Typing SVG" /></a></div>
 
-<p>🧑‍💻 I’m currently learning Cyber Security</p>
-
-<p align="left"> 
-</p>
+<div align="center">🧑‍💻 I’m currently learning Cyber Security</div>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/balikfr.png" alt="TryHackMe">
 
