@@ -1,19 +1,19 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║  PROFIL GITHUB — BVLIK · Cybersecurity                         ║
-  ║  DA inspirée Capgemini : dark + dégradé bleu→cyan (#0070AD→#12ABDB) ║
+  ║  DA Capgemini : dégradé #0070AD (Honolulu) → #12ABDB (Gamma)   ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
-<!-- ░░░░░░░░░░░░░░░░░  BANNIÈRE ANIMÉE (courbe swoosh)  ░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░  VAGUE HAUTE — swoosh Capgemini (pur graphique)  ░░░░░░░░ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1929,45:0070AD,100:12ABDB&height=200&section=header&text=BVLIK&fontColor=FFFFFF&fontSize=76&fontAlignY=34&animation=fadeIn&desc=Cybersecurity&descAlignY=56&descSize=20" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0070AD,100:12ABDB&height=160&section=header" alt="header" />
 
-<!-- ░░░ TYPING ANIMÉ ░░░ -->
-<a href="https://github.com/BalikFR">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=12ABDB&center=true&vCenter=true&width=680&height=55&lines=Get+the+secure+future+you+want.;Offensive+%E2%80%A2+Defensive+%E2%80%A2+Audit;Assume+breach+%E2%80%A2+Least+privilege+%E2%80%A2+Defense+in+depth" alt="typing" />
-</a>
+<!-- ░░░ HERO ANIMÉ — branding en terminal mono ░░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2600&pause=1000&color=12ABDB&center=true&vCenter=true&width=720&height=70&lines=BVLIK;%3E_+Cybersecurity" alt="BVLIK" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=2600&pause=800&color=8AB4C8&center=true&vCenter=true&width=720&height=30&lines=Offensive+%2F%2F+Defensive+%2F%2F+Audit;Assume+breach+%E2%80%A2+Least+privilege+%E2%80%A2+Defense+in+depth" alt="subtitle" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 </div>
 
-<!-- ░░░ DIVIDER NÉON (dégradé bleu→cyan) ░░░ -->
+<!-- ░░░ DIVIDER dégradé Capgemini ░░░ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
 
 ## &nbsp;`> whoami`
@@ -35,14 +35,10 @@
 ```json
 {
   "role":         "Cybersecurity",
-  "mission":      "Comprendre l'attaque pour mieux défendre.",
-  "specialities": ["Offensive (Pentest / CTF)", "Defensive (Hardening / Detection)", "Audit & IAM", "Conformité"],
+  "specialities": ["Offensive", "Defensive", "Audit & IAM"],
   "mindset":      "Assume breach. Least privilege. Defense in depth."
 }
 ```
-
-> 🛡️ **Cybersécurité** — de la reconnaissance offensive au durcissement défensif.
-> Penser comme l'attaquant, construire comme le défenseur : rendre l'attaque coûteuse et bruyante.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
 
@@ -84,7 +80,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
 
-## &nbsp;`> domains`
+## &nbsp;`> architecture`
 
 ```text
                     ┌──────────────────────────┐
@@ -95,16 +91,9 @@
  ┌────────────────┐    ┌──────────────────┐    ┌────────────────┐
  │   OFFENSIVE    │    │    DEFENSIVE     │    │  GOVERNANCE    │
  │  Pentest · CTF │    │  Hardening ·     │    │  Audit · IAM   │
- │  Recon · Exploit│   │  Detection · Logs│    │  Compliance    │
+ │  Recon         │    │  Detection · Logs│    │  Compliance    │
  └────────────────┘    └──────────────────┘    └────────────────┘
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
-
-<div align="center">
-
-<sub><code>// Assume breach · Least privilege · Defense in depth</code></sub>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12ABDB,55:0070AD,100:0A1929&height=120&section=footer" alt="footer" />
-
-</div>
+<!-- ░░░ VAGUE BASSE — footer swoosh ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12ABDB,100:0070AD&height=120&section=footer" alt="footer" />
