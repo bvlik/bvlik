@@ -19,7 +19,7 @@
 
 <br/>
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bvlik.png)](https://tryhackme.com/p/bvlik)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-bvlik-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11A1A)](https://tryhackme.com/p/bvlik)
 
 </div>
 
@@ -81,7 +81,6 @@
 | 🏗️ **[iac-security-scanner](https://github.com/bvlik/iac-security-scanner)** | Pattern-based Terraform misconfiguration scanner |
 | 🔎 **[saas-access-review](https://github.com/bvlik/saas-access-review)** | SaaS user access review (FastAPI + dashboard + audit trail) |
 | 🚩 **[TryHackMe-CTF-Writeups](https://github.com/bvlik/TryHackMe-CTF-Writeups)** | CTF learning write-ups |
-| 🕹️ **[Emu8](https://github.com/StaiLee/Emu8)** | CHIP-8 emulator in Go *(collab with [@StaiLee](https://github.com/StaiLee))* |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
 
