@@ -17,6 +17,10 @@
 ![Field](https://img.shields.io/badge/Cloud_&_Infra-Security-0070AD?style=for-the-badge&labelColor=0A1929)
 ![Mindset](https://img.shields.io/badge/Mindset-Defense_in_depth-0070AD?style=for-the-badge&labelColor=0A1929)
 
+<br/>
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bvlik.png)](https://tryhackme.com/p/bvlik)
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
@@ -65,7 +69,10 @@
 |---------|--------------|
 | 🛡️ **[m365-security-audit](https://github.com/bvlik/m365-security-audit)** | Read-only Microsoft 365 / Entra ID posture auditor (Microsoft Graph) |
 | ☁️ **[cloud-cis-checker](https://github.com/bvlik/cloud-cis-checker)** | Azure auditor mapped to the CIS Benchmark |
+| 🟠 **[aws-security-audit](https://github.com/bvlik/aws-security-audit)** | Read-only AWS posture auditor (public S3, open mgmt ports, IAM w/o MFA) |
+| 🪪 **[entra-iam-access-reviewer](https://github.com/bvlik/entra-iam-access-reviewer)** | Entra ID access review (stale accounts, guests, privileged roles) |
 | 🧪 **[home-detection-lab](https://github.com/bvlik/home-detection-lab)** | Blue-team Sigma rules + MITRE ATT&CK scenarios + runnable detector |
+| 📑 **[log-triage-toolkit](https://github.com/bvlik/log-triage-toolkit)** | SSH auth-log triage: brute-force, success-after-failures, user enumeration |
 | 🔑 **[fido2-yubikey-demo](https://github.com/bvlik/fido2-yubikey-demo)** | The crypto core of FIDO2/WebAuthn + phishing-resistance demo |
 | 🎣 **[phishing-awareness](https://github.com/bvlik/phishing-awareness)** | Defensive phishing URL analyser + awareness & IR guides |
 | 🔑 **[secrets-scanner](https://github.com/bvlik/secrets-scanner)** | Secrets scanner & pre-commit hook (AWS keys, tokens, private keys) |
