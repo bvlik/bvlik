@@ -68,6 +68,8 @@
 | 🧪 **[home-detection-lab](https://github.com/bvlik/home-detection-lab)** | Blue-team Sigma rules + MITRE ATT&CK scenarios + runnable detector |
 | 🔑 **[fido2-yubikey-demo](https://github.com/bvlik/fido2-yubikey-demo)** | The crypto core of FIDO2/WebAuthn + phishing-resistance demo |
 | 🎣 **[phishing-awareness](https://github.com/bvlik/phishing-awareness)** | Defensive phishing URL analyser + awareness & IR guides |
+| 🔑 **[secrets-scanner](https://github.com/bvlik/secrets-scanner)** | Secrets scanner & pre-commit hook (AWS keys, tokens, private keys) |
+| 🏗️ **[iac-security-scanner](https://github.com/bvlik/iac-security-scanner)** | Pattern-based Terraform misconfiguration scanner |
 | 🔎 **[saas-access-review](https://github.com/bvlik/saas-access-review)** | SaaS user access review (FastAPI + dashboard + audit trail) |
 | 🚩 **[TryHackMe-CTF-Writeups](https://github.com/bvlik/TryHackMe-CTF-Writeups)** | CTF learning write-ups |
 | 🕹️ **[Emu8](https://github.com/StaiLee/Emu8)** | CHIP-8 emulator in Go *(collab with [@StaiLee](https://github.com/StaiLee))* |
