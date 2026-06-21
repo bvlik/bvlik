@@ -73,8 +73,9 @@
 | 🪪 **[entra-iam-access-reviewer](https://github.com/bvlik/entra-iam-access-reviewer)** | Entra ID access review (stale accounts, guests, privileged roles) |
 | 🧪 **[home-detection-lab](https://github.com/bvlik/home-detection-lab)** | Blue-team Sigma rules + MITRE ATT&CK scenarios + runnable detector |
 | 📑 **[log-triage-toolkit](https://github.com/bvlik/log-triage-toolkit)** | SSH auth-log triage: brute-force, success-after-failures, user enumeration |
-| 📐 **[sigma-rule-pack](https://github.com/bvlik/sigma-rule-pack)** | Curated Sigma detection rules (Win/Linux/AWS) + `sigma-lint` validator in CI |
+| 📐 **[sigma-rule-pack](https://github.com/bvlik/sigma-rule-pack)** | 25 curated Sigma rules + `sigma-lint` validator **and Splunk/Elastic backend converter** |
 | ⛵ **[k8s-manifest-auditor](https://github.com/bvlik/k8s-manifest-auditor)** | Read-only Kubernetes manifest linter (privileged, host ns, caps, image tags) |
+| 🔓 **[jwt-inspector](https://github.com/bvlik/jwt-inspector)** | Decode/audit **and attack** JWTs: `alg:none`, HMAC secret cracking, token forging (stdlib only) |
 | 🔑 **[fido2-yubikey-demo](https://github.com/bvlik/fido2-yubikey-demo)** | The crypto core of FIDO2/WebAuthn + phishing-resistance demo |
 | 🎣 **[phishing-awareness](https://github.com/bvlik/phishing-awareness)** | Defensive phishing URL analyser + awareness & IR guides |
 | 🔑 **[secrets-scanner](https://github.com/bvlik/secrets-scanner)** | Secrets scanner & pre-commit hook (AWS keys, tokens, private keys) |
