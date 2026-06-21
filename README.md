@@ -72,4 +72,15 @@
 | 🚩 **[TryHackMe-CTF-Writeups](https://github.com/bvlik/TryHackMe-CTF-Writeups)** | CTF learning write-ups |
 | 🕹️ **[Emu8](https://github.com/StaiLee/Emu8)** | CHIP-8 emulator in Go *(collab with [@StaiLee](https://github.com/StaiLee))* |
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
+
+## &nbsp;`> collaborations`
+
+Built together with [@StaiLee](https://github.com/StaiLee):
+
+- 👁️ **[Argos](https://github.com/StaiLee/Argos)** — concurrent network scanner with a real-time TUI (Go)
+- 🧬 **[Ikelos](https://github.com/StaiLee/Ikelos)** — web-recon engine & site cloner with a Bubble Tea TUI (Go)
+- 🛰️ **[Orion](https://github.com/StaiLee/Orion)** — SOC visualised as a 3D cosmos (MITRE ATT&CK, SOAR)
+- 🕹️ **[Emu8](https://github.com/StaiLee/Emu8)** — CHIP-8 emulator (Go)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12ABDB,100:0070AD&height=120&section=footer" alt="footer" />
