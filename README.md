@@ -67,6 +67,7 @@
 
 | Project | What it does |
 |---------|--------------|
+| 📊 **[findings-aggregator](https://github.com/bvlik/findings-aggregator)** | **Merges every scanner's JSON into one ranked Markdown/HTML report** - the glue of the toolkit |
 | 🛡️ **[m365-security-audit](https://github.com/bvlik/m365-security-audit)** | Read-only Microsoft 365 / Entra ID posture auditor (Microsoft Graph) |
 | ☁️ **[cloud-cis-checker](https://github.com/bvlik/cloud-cis-checker)** | Azure auditor mapped to the CIS Benchmark |
 | 🟠 **[aws-security-audit](https://github.com/bvlik/aws-security-audit)** | Read-only AWS posture auditor (public S3, open mgmt ports, IAM w/o MFA) |
