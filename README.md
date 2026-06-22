@@ -80,6 +80,7 @@
 | 🧩 **[hash-id-crack](https://github.com/bvlik/hash-id-crack)** | Identify a hash type then dictionary-**crack** it (MD5/SHA*; bcrypt/argon2 id-only), stdlib only |
 | 🧬 **[payload-encoder](https://github.com/bvlik/payload-encoder)** | Encode a payload into 12 WAF/filter evasion variants (url, hex, html, base64, fromCharCode...) |
 | 🛠️ **[github-actions-auditor](https://github.com/bvlik/github-actions-auditor)** | Static audit of GH Actions workflows (`pull_request_target`, unpinned SHAs, script injection, perms) |
+| 🌐 **[subdomain-enum](https://github.com/bvlik/subdomain-enum)** | Subdomain candidate generation + **subdomain-takeover** detection from CNAME data (20 service fingerprints) |
 | 🔑 **[fido2-yubikey-demo](https://github.com/bvlik/fido2-yubikey-demo)** | The crypto core of FIDO2/WebAuthn + phishing-resistance demo |
 | 🎣 **[phishing-awareness](https://github.com/bvlik/phishing-awareness)** | Defensive phishing URL analyser + awareness & IR guides |
 | 🔑 **[secrets-scanner](https://github.com/bvlik/secrets-scanner)** | Secrets scanner & pre-commit hook (AWS keys, tokens, private keys) |
