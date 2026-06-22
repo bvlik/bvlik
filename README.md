@@ -70,7 +70,7 @@
 | 📊 **[findings-aggregator](https://github.com/bvlik/findings-aggregator)** | **Merges every scanner's JSON into one ranked Markdown/HTML report** - the glue of the toolkit |
 | 🛡️ **[m365-security-audit](https://github.com/bvlik/m365-security-audit)** | Read-only Microsoft 365 / Entra ID posture auditor (Microsoft Graph) |
 | ☁️ **[cloud-cis-checker](https://github.com/bvlik/cloud-cis-checker)** | Azure auditor mapped to the CIS Benchmark |
-| 🟠 **[aws-security-audit](https://github.com/bvlik/aws-security-audit)** | Read-only AWS posture auditor (public S3, open mgmt ports, IAM w/o MFA) |
+| 🟠 **[aws-security-audit](https://github.com/bvlik/aws-security-audit)** | Read-only AWS posture auditor - **15 checks** across IAM, S3, EC2/EBS, RDS, KMS, CloudTrail |
 | 🪪 **[entra-iam-access-reviewer](https://github.com/bvlik/entra-iam-access-reviewer)** | Entra ID access review (stale accounts, guests, privileged roles) |
 | 🧪 **[home-detection-lab](https://github.com/bvlik/home-detection-lab)** | Blue-team Sigma rules + MITRE ATT&CK scenarios + runnable detector |
 | 📑 **[log-triage-toolkit](https://github.com/bvlik/log-triage-toolkit)** | SSH auth-log triage: brute-force, success-after-failures, user enumeration |
