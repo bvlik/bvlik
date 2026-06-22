@@ -1,8 +1,3 @@
-<!--
-  PROFIL GITHUB — BVLIK · Cybersecurity   (repo public: bvlik/bvlik → README.md)
-  PSEUDONYME UNIQUEMENT. Aucun vrai nom / employeur / email ici (OPSEC).
--->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0070AD,100:12ABDB&height=160&section=header" alt="header" />
@@ -20,9 +15,6 @@
 <br/>
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-bvlik-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11A1A)](https://tryhackme.com/p/bvlik)
-
-![Profile views](https://komarev.com/ghpvc/?username=bvlik&style=for-the-badge&color=12ABDB&label=PROFILE+VIEWS&labelColor=0A1929)
-[![Followers](https://img.shields.io/github/followers/bvlik?style=for-the-badge&logo=github&logoColor=12ABDB&color=0070AD&labelColor=0A1929)](https://github.com/bvlik?tab=followers)
 
 </div>
 
@@ -53,78 +45,50 @@
 
 <div align="center">
 
-![Languages](https://img.shields.io/badge/Languages-0070AD?style=for-the-badge)
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-0A1929?style=for-the-badge&logo=python&logoColor=12ABDB)
-![PowerShell](https://img.shields.io/badge/PowerShell-0A1929?style=for-the-badge&logo=powershell&logoColor=12ABDB)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A1929?style=for-the-badge&logo=javascript&logoColor=12ABDB)
 ![Bash](https://img.shields.io/badge/Bash-0A1929?style=for-the-badge&logo=gnubash&logoColor=12ABDB)
 ![Go](https://img.shields.io/badge/Go-0A1929?style=for-the-badge&logo=go&logoColor=12ABDB)
 
-<br/>
+**Cloud & Microsoft**
 
-![Cloud](https://img.shields.io/badge/Cloud_&_M365-0070AD?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0A1929?style=for-the-badge&logo=microsoftazure&logoColor=12ABDB)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0A1929?style=for-the-badge&logo=microsoft&logoColor=12ABDB)
-![Exchange](https://img.shields.io/badge/Exchange_Online-0A1929?style=for-the-badge&logo=microsoftexchange&logoColor=12ABDB)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0A1929?style=for-the-badge&logo=microsoft&logoColor=12ABDB)
-![AWS](https://img.shields.io/badge/AWS-0A1929?style=for-the-badge&logo=amazonaws&logoColor=12ABDB)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge)
+![Exchange Online](https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge)
 
-<br/>
+**Platforms · Virtualization · Backup**
 
-![Security](https://img.shields.io/badge/Security_Ops-0070AD?style=for-the-badge)
-![Hardening](https://img.shields.io/badge/Hardening-0A1929?style=for-the-badge)
-![Vulnerability Audit](https://img.shields.io/badge/Vulnerability_Audit-0A1929?style=for-the-badge)
-![IAM](https://img.shields.io/badge/IAM_·_Access_Review-0A1929?style=for-the-badge&logo=auth0&logoColor=12ABDB)
-![Detection](https://img.shields.io/badge/Detection_·_Sigma-0A1929?style=for-the-badge&logo=elasticstack&logoColor=12ABDB)
-![SIEM](https://img.shields.io/badge/SIEM-0A1929?style=for-the-badge)
-![Incident Response](https://img.shields.io/badge/Incident_Response-0A1929?style=for-the-badge)
-
-<br/>
-
-![EndpointNet](https://img.shields.io/badge/Endpoint_&_Network-0070AD?style=for-the-badge)
-![WatchGuard](https://img.shields.io/badge/WatchGuard-0A1929?style=for-the-badge)
-![Stormshield](https://img.shields.io/badge/Stormshield-0A1929?style=for-the-badge)
-![Deep Instinct](https://img.shields.io/badge/Deep_Instinct-0A1929?style=for-the-badge)
-![Malwarebytes](https://img.shields.io/badge/Malwarebytes-0A1929?style=for-the-badge&logo=malwarebytes&logoColor=12ABDB)
-![SASE](https://img.shields.io/badge/SASE_·_SD--WAN-0A1929?style=for-the-badge)
-![HP Sure Click](https://img.shields.io/badge/HP_Sure_Click-0A1929?style=for-the-badge)
-
-<br/>
-
-![Identity](https://img.shields.io/badge/Identity_&_MFA-0070AD?style=for-the-badge)
-![FIDO2](https://img.shields.io/badge/FIDO2_·_WebAuthn-0A1929?style=for-the-badge&logo=yubico&logoColor=12ABDB)
-![Thales](https://img.shields.io/badge/Thales_FIDO-0A1929?style=for-the-badge)
-![AuthPoint](https://img.shields.io/badge/AuthPoint_MFA-0A1929?style=for-the-badge)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0A1929?style=for-the-badge&logo=windows&logoColor=12ABDB)
-
-<br/>
-
-![VirtBackup](https://img.shields.io/badge/Virtualization_&_Backup-0070AD?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-0A1929?style=for-the-badge&logo=linux&logoColor=12ABDB)
 ![VMware](https://img.shields.io/badge/VMware-0A1929?style=for-the-badge&logo=vmware&logoColor=12ABDB)
-![Veeam](https://img.shields.io/badge/Veeam-0A1929?style=for-the-badge)
-![Acronis](https://img.shields.io/badge/Acronis-0A1929?style=for-the-badge)
-![NAS](https://img.shields.io/badge/NAS-0A1929?style=for-the-badge)
-
-<br/>
-
-![Compliance](https://img.shields.io/badge/Audit_&_Compliance-0070AD?style=for-the-badge)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-0A1929?style=for-the-badge)
-![GDPR](https://img.shields.io/badge/GDPR_·_RGPD-0A1929?style=for-the-badge)
-![CNIL](https://img.shields.io/badge/CNIL-0A1929?style=for-the-badge)
-![ANSSI](https://img.shields.io/badge/ANSSI-0A1929?style=for-the-badge)
-![PASSI](https://img.shields.io/badge/PASSI_pentest-0A1929?style=for-the-badge)
-
-<br/>
-
-![CTFTooling](https://img.shields.io/badge/CTF_&_Tooling-0070AD?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0A1929?style=for-the-badge&logo=tryhackme&logoColor=12ABDB)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-0A1929?style=for-the-badge&logo=hackthebox&logoColor=12ABDB)
-![Root-Me](https://img.shields.io/badge/Root--Me-0A1929?style=for-the-badge)
-![picoCTF](https://img.shields.io/badge/picoCTF-0A1929?style=for-the-badge)
+![Veeam](https://img.shields.io/badge/Veeam-0A1929?style=for-the-badge&logo=veeam&logoColor=12ABDB)
 ![Docker](https://img.shields.io/badge/Docker-0A1929?style=for-the-badge&logo=docker&logoColor=12ABDB)
 ![Git](https://img.shields.io/badge/Git-0A1929?style=for-the-badge&logo=git&logoColor=12ABDB)
 
+**Security tooling**
+
+![FIDO2 / WebAuthn](https://img.shields.io/badge/FIDO2_·_WebAuthn-0A1929?style=for-the-badge&logo=yubico&logoColor=12ABDB)
+![Detection / SIEM](https://img.shields.io/badge/Detection_·_SIEM-0A1929?style=for-the-badge&logo=elasticstack&logoColor=12ABDB)
+![Malwarebytes](https://img.shields.io/badge/Malwarebytes-0A1929?style=for-the-badge&logo=malwarebytes&logoColor=12ABDB)
+![HP Sure Click](https://img.shields.io/badge/HP_Sure_Click-0A1929?style=for-the-badge&logo=hp&logoColor=12ABDB)
+
+**CTF**
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-0A1929?style=for-the-badge&logo=tryhackme&logoColor=12ABDB)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-0A1929?style=for-the-badge&logo=hackthebox&logoColor=12ABDB)
+
 </div>
+
+**Domains** — Vulnerability audit & PoC · Hardening (workstation / PASSI) · IAM & access review · Detection & SIEM · Incident response · Cloud, M365 & Exchange config audit
+
+**Security solutions** — WatchGuard · Stormshield · Deep Instinct · Vade Secure · SASE / SD-WAN · Thales FIDO keys · WatchGuard AuthPoint (MFA)
+
+**Compliance** — ISO 27001 · GDPR / RGPD · CNIL · ANSSI · PASSI
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
 
@@ -137,27 +101,15 @@
 
 <img height="165" src="https://streak-stats.demolab.com?user=bvlik&hide_border=true&background=0A1929&stroke=12ABDB&ring=12ABDB&fire=12ABDB&currStreakLabel=12ABDB&sideLabels=8AB4C8&dates=546E7A&currStreakNum=FFFFFF&sideNums=FFFFFF&dayLabels=8AB4C8" alt="streak" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bvlik&bg_color=0A1929&color=12ABDB&line=12ABDB&point=FFFFFF&area=true&area_color=0070AD&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
-
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=bvlik&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
 
-## &nbsp;`> experience`
+## &nbsp;`> about`
 
-> Role-based on purpose — this is a pseudonymous profile.
-
-- **Cybersecurity apprentice** · work-study · since 2024
-  Vulnerability audits & proof-of-concept, infrastructure / storage / backup hardening
-  (on-prem and cloud-to-cloud), EDR & SASE administration, MFA & FIDO-key rollout,
-  phishing-awareness campaigns, and task automation in Python / PowerShell.
-  Configuration audits on Azure & Microsoft 365 / Exchange Online; workstation
-  hardening for PASSI-context penetration testing.
-- **Student cybersecurity project lead** · since 2023
-  Coordinating and mentoring a ~30-person beginner cohort — roadmap, team management,
-  CTF challenges and intrusion-test simulations.
+I work in cybersecurity across cloud and infrastructure. I run vulnerability audits and proofs-of-concept, harden servers, storage and backups, and audit Azure and Microsoft 365 / Exchange configurations. I manage EDR and SASE solutions, deploy MFA and FIDO security keys, run phishing-awareness campaigns, and automate the repetitive parts in Python and PowerShell. I also harden workstations for PASSI-context penetration testing, mentor a student group in security and Python, and sharpen my skills on CTF platforms.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
 
@@ -167,9 +119,13 @@
 
 ![Certs](https://img.shields.io/badge/50%2B_technical_certifications-0A1929?style=for-the-badge&logo=credly&logoColor=12ABDB)
 
+![Cisco](https://img.shields.io/badge/Cisco-0A1929?style=for-the-badge&logo=cisco&logoColor=12ABDB)
+![Dell](https://img.shields.io/badge/Dell-0A1929?style=for-the-badge&logo=dell&logoColor=12ABDB)
+![Yubico](https://img.shields.io/badge/Yubico-0A1929?style=for-the-badge&logo=yubico&logoColor=12ABDB)
+
 </div>
 
-Across **Acronis · Dell Technologies · Cisco · CNIL · ANSSI (SecNumacadémie) · WatchGuard** — spanning backup & resilience, networking, secure infrastructure, data protection and security awareness.
+Spanning **Microsoft · Cisco · Dell Technologies · Acronis · WatchGuard · Yubico · CNIL · ANSSI (SecNumacadémie)** — across secure infrastructure, networking, backup & resilience, identity & MFA, data protection and security awareness.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
 
