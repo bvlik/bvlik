@@ -86,7 +86,6 @@
 
 **CTF**
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0A1929?style=for-the-badge&logo=tryhackme&logoColor=12ABDB)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-0A1929?style=for-the-badge&logo=hackthebox&logoColor=12ABDB)
 ![Root-Me](https://img.shields.io/badge/Root--Me-0A1929?style=for-the-badge&logo=rootme&logoColor=12ABDB)
 
@@ -96,7 +95,12 @@
 
 ## &nbsp;`> about`
 
-I work in cybersecurity across cloud and infrastructure. I run vulnerability audits and proofs-of-concept, harden servers, storage and backups, and audit Azure and Microsoft 365 / Exchange configurations. I manage EDR and SASE solutions, deploy MFA and FIDO security keys, run phishing-awareness campaigns, and automate the repetitive parts in Python and PowerShell. I also harden workstations for PASSI-context penetration testing, mentor a student group in security and Python, and sharpen my skills on CTF platforms.
+Cybersecurity across **cloud & infrastructure** — defensive by trade, offensive by curiosity.
+
+- 🔍 &nbsp;Vulnerability audits & PoC · config audits on **Azure / Microsoft 365 / Exchange**
+- 🛡️ &nbsp;Hardening of servers, storage, backups and **workstations** (PASSI pentest context)
+- 🧱 &nbsp;**EDR & SASE** administration · **MFA / FIDO** key rollout · phishing awareness
+- ⚙️ &nbsp;Automation in **Python / PowerShell** · home labs & CTFs to stay sharp
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
 
@@ -104,22 +108,18 @@ I work in cybersecurity across cloud and infrastructure. I run vulnerability aud
 
 <div align="center">
 
-![50+ Technical Certifications](https://img.shields.io/badge/50%2B_Technical_Certifications-0A1929?style=for-the-badge&logo=credly&logoColor=12ABDB)
+![50+ Technical Certifications](https://img.shields.io/badge/50%2B_Technical_Certifications-12ABDB?style=for-the-badge&logo=credly&logoColor=0A1929)
 
 &nbsp;
 
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge)
+![Microsoft](https://img.shields.io/badge/Microsoft-0A1929?style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/Cisco-0A1929?style=for-the-badge&logo=cisco&logoColor=12ABDB)
 ![Dell](https://img.shields.io/badge/Dell-0A1929?style=for-the-badge&logo=dell&logoColor=12ABDB)
 ![Yubico](https://img.shields.io/badge/Yubico-0A1929?style=for-the-badge&logo=yubico&logoColor=12ABDB)
-![Acronis](https://img.shields.io/badge/Acronis-0070AD?style=for-the-badge)
-![WatchGuard](https://img.shields.io/badge/WatchGuard-0070AD?style=for-the-badge)
-![CNIL](https://img.shields.io/badge/CNIL-0070AD?style=for-the-badge)
-![ANSSI](https://img.shields.io/badge/ANSSI_·_SecNumacadémie-0070AD?style=for-the-badge)
-
-&nbsp;
-
-<sub>Secure infrastructure · networking · backup & resilience · identity & MFA · data protection · awareness</sub>
+![Acronis](https://img.shields.io/badge/Acronis-0A1929?style=for-the-badge)
+![WatchGuard](https://img.shields.io/badge/WatchGuard-0A1929?style=for-the-badge)
+![CNIL](https://img.shields.io/badge/CNIL-0A1929?style=for-the-badge)
+![ANSSI](https://img.shields.io/badge/ANSSI_·_SecNumacadémie-0A1929?style=for-the-badge)
 
 </div>
 
