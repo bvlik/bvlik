@@ -21,6 +21,9 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-bvlik-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11A1A)](https://tryhackme.com/p/bvlik)
 
+![Profile views](https://komarev.com/ghpvc/?username=bvlik&style=for-the-badge&color=12ABDB&label=PROFILE+VIEWS&labelColor=0A1929)
+[![Followers](https://img.shields.io/github/followers/bvlik?style=for-the-badge&logo=github&logoColor=12ABDB&color=0070AD&labelColor=0A1929)](https://github.com/bvlik?tab=followers)
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
@@ -120,6 +123,23 @@
 ![picoCTF](https://img.shields.io/badge/picoCTF-0A1929?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-0A1929?style=for-the-badge&logo=docker&logoColor=12ABDB)
 ![Git](https://img.shields.io/badge/Git-0A1929?style=for-the-badge&logo=git&logoColor=12ABDB)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
+
+## &nbsp;`> stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bvlik&show_icons=true&count_private=true&hide_border=true&bg_color=0A1929&title_color=12ABDB&icon_color=12ABDB&text_color=8AB4C8" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvlik&layout=compact&langs_count=8&hide_border=true&bg_color=0A1929&title_color=12ABDB&text_color=8AB4C8" alt="top languages" />
+
+<img height="165" src="https://streak-stats.demolab.com?user=bvlik&hide_border=true&background=0A1929&stroke=12ABDB&ring=12ABDB&fire=12ABDB&currStreakLabel=12ABDB&sideLabels=8AB4C8&dates=546E7A&currStreakNum=FFFFFF&sideNums=FFFFFF&dayLabels=8AB4C8" alt="streak" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bvlik&bg_color=0A1929&color=12ABDB&line=12ABDB&point=FFFFFF&area=true&area_color=0070AD&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph" />
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=bvlik&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 
 </div>
 
