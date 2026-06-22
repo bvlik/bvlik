@@ -12,10 +12,6 @@
 ![Field](https://img.shields.io/badge/Cloud_&_Infra-Security-0070AD?style=for-the-badge&labelColor=0A1929)
 ![Mindset](https://img.shields.io/badge/Mindset-Defense_in_depth-0070AD?style=for-the-badge&labelColor=0A1929)
 
-<br/>
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-bvlik-212C42?style=for-the-badge&logo=tryhackme&logoColor=C11A1A)](https://tryhackme.com/p/bvlik)
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0070AD,100:12ABDB&height=2" alt="divider" />
@@ -86,6 +82,7 @@
 
 **CTF**
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0A1929?style=for-the-badge&logo=tryhackme&logoColor=12ABDB)](https://tryhackme.com/p/bvlik)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-0A1929?style=for-the-badge&logo=hackthebox&logoColor=12ABDB)
 ![Root-Me](https://img.shields.io/badge/Root--Me-0A1929?style=for-the-badge&logo=rootme&logoColor=12ABDB)
 
