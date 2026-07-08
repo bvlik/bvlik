@@ -127,8 +127,10 @@ Cybersecurity across **cloud & infrastructure** — defensive by trade, offensiv
 | Project | What it does |
 |---------|--------------|
 | 📊 **[findings-aggregator](https://github.com/bvlik/findings-aggregator)** | **Merges every scanner's JSON into one ranked Markdown/HTML report** - the glue of the toolkit |
-| 🏥 **[hospital-security-iac](https://github.com/bvlik/hospital-security-iac)** | Windows 11 hospital hardening **as code** - RBAC, NTFS ACL isolation, shell hardening (PowerShell) + real-time **Go SOC** dashboard |
+| 🏥 **[hospital-security-iac](https://github.com/bvlik/hospital-security-iac)** | Windows 11 hospital hardening **as code** - RBAC, NTFS ACL isolation, shell hardening (PowerShell) + real-time **Go SOC** dashboard *(with [@StaiLee](https://github.com/StaiLee))* |
 | 🔐 **[biotech-secure-infra](https://github.com/bvlik/biotech-secure-infra)** | **Zero-Trust** infrastructure dossier - architecture, ops runbooks, pentest & RETEX, mapped to ANSSI / CIS v8 / ATT&CK *(with [@StaiLee](https://github.com/StaiLee))* |
+| 🧪 **[web-vuln-lab](https://github.com/bvlik/web-vuln-lab)** | Hands-on web attack lab: phishing → **stored XSS** → session theft → **SQLi** → exfiltration, with attacker server + hardened twin |
+| 🔎 **[sonarqube-ci-pipeline](https://github.com/bvlik/sonarqube-ci-pipeline)** | Node.js app on an **Azure Pipelines** CI/CD flow: tests, **SonarQube** quality gate, Docker packaging |
 | 🛡️ **[m365-security-audit](https://github.com/bvlik/m365-security-audit)** | Read-only Microsoft 365 / Entra ID posture auditor (Microsoft Graph) |
 | ☁️ **[cloud-cis-checker](https://github.com/bvlik/cloud-cis-checker)** | Azure auditor mapped to the CIS Benchmark |
 | 🟠 **[aws-security-audit](https://github.com/bvlik/aws-security-audit)** | Read-only AWS posture auditor - **15 checks** across IAM, S3, EC2/EBS, RDS, KMS, CloudTrail |
@@ -161,5 +163,6 @@ Built together with [@StaiLee](https://github.com/StaiLee):
 - 🛰️ **[Orion](https://github.com/StaiLee/Orion)** — SOC visualised as a 3D cosmos (MITRE ATT&CK, SOAR)
 - 🕹️ **[Emu8](https://github.com/StaiLee/Emu8)** — CHIP-8 emulator (Go)
 - 🔐 **[biotech-secure-infra](https://github.com/bvlik/biotech-secure-infra)** — Zero-Trust infrastructure security dossier (architecture, pentest, SOC)
+- 🏥 **[hospital-security-iac](https://github.com/bvlik/hospital-security-iac)** — Windows 11 hospital hardening as code + real-time Go SOC dashboard
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12ABDB,100:0070AD&height=120&section=footer" alt="footer" />
