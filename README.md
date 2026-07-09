@@ -129,6 +129,7 @@ Cybersecurity across **cloud & infrastructure** — defensive by trade, offensiv
 | 📊 **[findings-aggregator](https://github.com/bvlik/findings-aggregator)** | **Merges every scanner's JSON into one ranked Markdown/HTML report** - the glue of the toolkit |
 | 🏥 **[hospital-security-iac](https://github.com/bvlik/hospital-security-iac)** | Windows 11 hospital hardening **as code** - RBAC, NTFS ACL isolation, shell hardening (PowerShell) + real-time **Go SOC** dashboard *(with [@StaiLee](https://github.com/StaiLee))* |
 | 🔐 **[biotech-secure-infra](https://github.com/bvlik/biotech-secure-infra)** | **Zero-Trust** infrastructure dossier - architecture, ops runbooks, pentest & RETEX, mapped to ANSSI / CIS v8 / ATT&CK *(with [@StaiLee](https://github.com/StaiLee))* |
+| 🏛️ **[artemis-secure-infra](https://github.com/bvlik/artemis-secure-infra)** | Audit of an ageing automotive infra → **segmented, HA target** + governance: DICT risk analysis, **PSSI**, budget & phased roadmap *(with [@StaiLee](https://github.com/StaiLee))* |
 | 🧪 **[web-vuln-lab](https://github.com/bvlik/web-vuln-lab)** | Hands-on web attack lab: phishing → **stored XSS** → session theft → **SQLi** → exfiltration, with attacker server + hardened twin |
 | 🔎 **[sonarqube-ci-pipeline](https://github.com/bvlik/sonarqube-ci-pipeline)** | Node.js app on an **Azure Pipelines** CI/CD flow: tests, **SonarQube** quality gate, Docker packaging |
 | 🛡️ **[m365-security-audit](https://github.com/bvlik/m365-security-audit)** | Read-only Microsoft 365 / Entra ID posture auditor (Microsoft Graph) |
@@ -136,6 +137,7 @@ Cybersecurity across **cloud & infrastructure** — defensive by trade, offensiv
 | 🟠 **[aws-security-audit](https://github.com/bvlik/aws-security-audit)** | Read-only AWS posture auditor - **15 checks** across IAM, S3, EC2/EBS, RDS, KMS, CloudTrail |
 | 🪪 **[entra-iam-access-reviewer](https://github.com/bvlik/entra-iam-access-reviewer)** | Entra ID access review (stale accounts, guests, privileged roles) |
 | 🧪 **[home-detection-lab](https://github.com/bvlik/home-detection-lab)** | Blue-team Sigma rules + MITRE ATT&CK scenarios + runnable detector |
+| 🦠 **[malware-triage-kit](https://github.com/bvlik/malware-triage-kit)** | Behavioural triage of a **.NET stealer**: Procmon evidence → PID-scoped Python tool → Sigma/YARA/STIX + ATT&CK chain *(with [@StaiLee](https://github.com/StaiLee))* |
 | 📑 **[log-triage-toolkit](https://github.com/bvlik/log-triage-toolkit)** | SSH auth-log triage: brute-force, success-after-failures, user enumeration |
 | 📐 **[sigma-rule-pack](https://github.com/bvlik/sigma-rule-pack)** | 25 curated Sigma rules + `sigma-lint` validator **and Splunk/Elastic backend converter** |
 | ⛵ **[k8s-manifest-auditor](https://github.com/bvlik/k8s-manifest-auditor)** | Read-only Kubernetes manifest linter (privileged, host ns, caps, image tags) |
@@ -164,5 +166,7 @@ Built together with [@StaiLee](https://github.com/StaiLee):
 - 🕹️ **[Emu8](https://github.com/StaiLee/Emu8)** — CHIP-8 emulator (Go)
 - 🔐 **[biotech-secure-infra](https://github.com/bvlik/biotech-secure-infra)** — Zero-Trust infrastructure security dossier (architecture, pentest, SOC)
 - 🏥 **[hospital-security-iac](https://github.com/bvlik/hospital-security-iac)** — Windows 11 hospital hardening as code + real-time Go SOC dashboard
+- 🏛️ **[artemis-secure-infra](https://github.com/bvlik/artemis-secure-infra)** — infrastructure audit & secure redesign for an automotive company (DICT, PSSI, roadmap)
+- 🦠 **[malware-triage-kit](https://github.com/bvlik/malware-triage-kit)** — behavioural triage of a .NET stealer (Procmon evidence, Sigma/YARA/STIX, ATT&CK)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12ABDB,100:0070AD&height=120&section=footer" alt="footer" />
